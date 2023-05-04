@@ -2,7 +2,7 @@
 #### I am a wordpress developer 
 ![I am a wordpress developer ](https://prnt.sc/_5mN8PBZBk9-)
 
-Hello and welcome to my GitHub profile! I'm a passionate WordPress developer with over 3 years of experience in building custom themes and plugins. My expertise lies in writing clean and efficient code that's both user-friendly and scalable. I'm committed to staying up-to-date with the latest WordPress trends and technologies to deliver exceptional results to my clients. When I'm not coding, you'll find me exploring new tools and techniques or contributing to the WordPress community
+Hello and welcome to my GitHub profile! I'm a passionate WordPress developer with over 3 years of experience in building custom themes. My expertise lies in writing clean and efficient code that's both user-friendly and scalable. I'm committed to staying up-to-date with the latest WordPress trends and technologies to deliver exceptional results to my clients. When I'm not coding, you'll find me exploring new tools and techniques or contributing to the WordPress community
 
 Skills:  REACT / JS / HTML / CSS/BOOTSTRAP/JQUERY
 
