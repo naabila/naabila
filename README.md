@@ -1,16 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nabila Islam
-====================================================================================================================================
+### Hi there 👋, my name is Nabila Islam
+#### I am a FrontEnd  Developer
+As a skilled front-end developer, I specialize in developing visually stunning websites optimized for performance and user experience. 
 
-Front-end web developer
--------------------
+Skills: HTML/CSS/BOOTSTRAP/JAVASCRIPT/JQUERY/REACT
 
-Hello, I am Nabila Islam. As a skilled front-end developer, I specialize in developing visually stunning websites optimized for performance and user experience. 
-Skills: 
-Frontend Technologies: HTML5, CSS3, JavaScript (ES6+) 
-Frameworks/Libraries: React.js
-Responsive Web Design Web Performance Optimization Cross-Browser Compatibility 
-Version Control: Git Build 
-Tools: Webpack, Babel 
-If you seek a talented and experienced front-end developer who can help you establish a strong online presence, I invite you to connect with me. Let's work together to create a website that reflects your brand identity and drives results for your business.
+- 🔭 I’m currently working on this page. 
 
-* ✉️  You can contact me at [nabilaislam70177@gmail.com](mailto:nabilaislam70177@gmail.com)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NAABILA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Nabila Islam/)  
+
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAABILA)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NAABILA&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/NAABILA)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=NAABILA)  
+
