@@ -2,7 +2,7 @@
 #### I am a FrontEnd  Developer
 As a skilled front-end developer, I specialize in developing visually stunning websites optimized for performance and user experience. 
 
-Skills: HTML/CSS/BOOTSTRAP/JAVASCRIPT/JQUERY/REACT
+Skills: HTML/CSS/BOOTSTRAP/TAILWIND CSS/JAVASCRIPT/JQUERY/REACT/NEXT JS/NODE JS/MongoDB/JWT/FIREBASE/GIT/VERCEL
 
 
 
