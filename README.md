@@ -1,4 +1,4 @@
-<img src="https://prnt.sc/lJuGCjsRnYmx" alt="Mokkapps GitHub README header image">
+<img src="https://ibb.co.com/gb7qKXdy" alt="Mokkapps GitHub README header image">
 ### Hi there 👋, my name is Nabila Islam
 #### I am a FrontEnd  Developer
 As a skilled front-end developer, I specialize in developing visually stunning websites optimized for performance and user experience. 
