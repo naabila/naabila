@@ -19,7 +19,7 @@ As a skilled front-end developer, I specialize in developing visually stunning w
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
+<p><a href="[https://www.linkedin.com/in/mokkapps](https://www.linkedin.com/in/nabilaadev/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
 
 
